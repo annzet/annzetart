@@ -1,5 +1,6 @@
 # annzetart
 <!DOCTYPE html>
+<link rel="stylesheet" href="stile.css">
 <html lang="es">
 <head>
     <meta charset="UTF-8">
