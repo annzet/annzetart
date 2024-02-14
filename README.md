@@ -10,9 +10,9 @@
 <body>
 
     <section id="galeria">
-        <img src="buscarcomisiones/bruja.jpg" alt="Descripción de la imagen 1">
-        <img src="buscarcomisiones/kutulu.jpg" alt="Descripción de la imagen 2">
-        <img src="buscarcomisiones/seba.jpg" alt="Descripción de la imagen 3">
+        <img src="buscarcomsiones/bruja.jpg" alt="Descripción de la imagen 1">
+        <img src="buscarcomsiones/kutulu.jpg" alt="Descripción de la imagen 2">
+        <img src="buscarcomsiones/seba.jpg" alt="Descripción de la imagen 3">
     </section>
 
     <section id="character-design">
