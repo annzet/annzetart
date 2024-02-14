@@ -1,43 +1,48 @@
-# annzetart
+# AnnzetART
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <link rel="stylesheet" href="stile.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Tu Portafolio</title>
+    <title>AnnzetART - Portafolio</title>
 </head>
 <body>
     <header>
-        <h1>Tu Nombre</h1>
-        <p>Diseñador de Personajes y Concept Art</p>
+        <h1>AnnzetART</h1>
     </header>
 
-    <nav>
-        <ul>
-            <li><a href="#proyectos">Proyectos</a></li>
-            <li><a href="#galeria">Galería</a></li>
-            <li><a href="#sobre-mi">Sobre Mí</a></li>
-        </ul>
-    </nav>
-
-    <section id="proyectos">
-        <h2>Proyectos Destacados</h2>
-        <!-- Agrega aquí tus proyectos con imágenes y descripciones -->
-    </section>
-
     <section id="galeria">
-        <h2>Galería</h2>
-        <div class="gallery">
-            <!-- Agrega aquí tus imágenes de la galería -->
-        </div>
+        <!-- Agrega aquí tus imágenes para la galería -->
     </section>
 
-    <section id="sobre-mi">
-        <h2>Sobre Mí</h2>
-        <p>¡Hola! Soy [Tu Nombre], un apasionado diseñador de personajes y concept art...</p>
+    <section id="character-design">
+        <h2>Character Design</h2>
+        <!-- Agrega aquí tus proyectos de character design -->
     </section>
+
+    <section id="concept-art">
+        <h2>Concept Art</h2>
+        <!-- Agrega aquí tus proyectos de concept art -->
+    </section>
+
+    <section id="descripcion">
+        <h2>Descripción</h2>
+        <p>¡Bienvenido a mi portafolio! Soy Annzet, un apasionado diseñador de personajes y creador de concept art...</p>
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Para consultas y comisiones, contáctame a través de:</p>
+        <a href="mailto:tu@email.com">tu@email.com</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 AnnzetART</p>
+    </footer>
+</body>
+</html>
+
 
     <footer>
         <p>Contacto: tu@email.com</p>
