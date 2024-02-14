@@ -10,7 +10,9 @@
 <body>
 
     <section id="galeria">
-        <!-- Agrega aquí tus imágenes para la galería -->
+        <img src="img/bruja.jpg" alt="Descripción de la imagen 1">
+        <img src="img/kutulu.jpg" alt="Descripción de la imagen 2">
+        <img src="img/seba.jpg" alt="Descripción de la imagen 3">
     </section>
 
     <section id="character-design">
