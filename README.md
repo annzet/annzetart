@@ -8,9 +8,6 @@
     <title>AnnzetART - Portafolio</title>
 </head>
 <body>
-    <header>
-        <h1>AnnzetART</h1>
-    </header>
 
     <section id="galeria">
         <!-- Agrega aquí tus imágenes para la galería -->
