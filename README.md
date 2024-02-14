@@ -9,7 +9,7 @@
 </head>
 <body>
 
-    <section id="galeria">
+    <section id="galeria class=galeria" onclick="cambiarImagen()>
         <img src="buscarcomsiones/bruja.jpg" alt="Descripción de la imagen 1">
         <img src="buscarcomsiones/kutulu.jpg" alt="Descripción de la imagen 2">
         <img src="buscarcomsiones/seba.jpg" alt="Descripción de la imagen 3">
