@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="stile.css">
-    <title>AnnzetART - Portafolio</title>
+    <title>Portafolio</title>
 </head>
 <body>
 
@@ -17,12 +17,12 @@
 
     <section id="character-design">
         <h2>Character Design</h2>
-        <!-- Agrega aquí tus proyectos de character design -->
+        
     </section>
 
     <section id="concept-art">
         <h2>Concept Art</h2>
-        <!-- Agrega aquí tus proyectos de concept art -->
+        
     </section>
 
     <section id="descripcion">
@@ -33,7 +33,7 @@
     <section id="contacto">
         <h2>Contacto</h2>
         <p>Para consultas y comisiones, contáctame a través de:</p>
-        <a href="mailto:tu@email.com">tu@email.com</a>
+        <a href="mailto:tu@email.com">gio.annzet@gmail.com</a>
     </section>
 
     <footer>
